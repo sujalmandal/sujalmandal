@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sujalmandal
 - 👀 I’m interested in distributed transactions, distributed systems, pattern recognition.
-- 🌱 I’m currently learning redux-react, python, zookeeper, and some linear algebra.
+- 🌱 I’m currently learning redux-react, python, zookeeper, and deep learning.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 mail me at ss6sujal@gmail.com if you wanna chat about something :)
