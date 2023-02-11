@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sujalmandal
-- 👀 I’m interested in distributed transactions, pattern recognition.
+- 👀 I’m interested in distributed systems.
 - 🌱 I’m currently learning redux-react, solace message broker.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 mail me at ss6sujal@gmail.com if you wanna chat about something :)
