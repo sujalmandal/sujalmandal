@@ -1,3 +1,4 @@
+- 9 years of backend engineering experience
 - 👋 Hi, I’m @sujalmandal
 -  love rpgs/jrpgs, want to make one.
 - 👀 I’m interested in machine learning.
