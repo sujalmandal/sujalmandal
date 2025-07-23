@@ -1,4 +1,1 @@
-- 9 years of backend engineering experience
-- 👋 Hi, I’m @sujalmandal
--  love rpgs/jrpgs, want to make one.
-- 👀 I’m interested in machine learning.
+Seasoned professional with 11 years of experience, passionate about programming and always eager to learn new things. Enthusiastic about AI and driven to contribute to innovative projects. Looking to collaborate on impactful ideas and add value to forward-thinking teams
